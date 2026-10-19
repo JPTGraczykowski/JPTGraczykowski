@@ -1,6 +1,6 @@
 # Jędrzej Graczykowski
 
-I'm a full-stack software engineer from Łódź, specializing in Ruby on Rails web applications. I've been building software professionally since 2020 and have been at [Visuality](https://visuality.pl) since January 2025. Before that, I worked as a full-stack web developer with Ruby on Rails, JavaScript and Flutter.
+I'm a full-stack software engineer from Łódź, specializing in Ruby on Rails web applications. I've been building software professionally since 2020 and have been at [Visuality](https://visuality.pl) since January 2025. Before that, I worked as a full-stack web developer at [HTD Health](https://htdhealth.com/), using Ruby on Rails, JavaScript and Flutter.
 
 In my free time I build side projects in many languages, and lately I build them with the help of AI. My two newest projects are retro games written in Rust.
 
